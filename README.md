@@ -1,5 +1,3 @@
-:
-
 📌 Customer Churn Prediction
 📖 Project Overview
 
@@ -62,18 +60,6 @@ Churn distribution across tenure and contract type.
 Correlation heatmap of numerical features.
 
 Service usage vs churn analysis.
-
-⚡ How to Run
-
-Clone the repository
-
-git clone https://github.com/your-username/customer-churn-prediction.git
-cd customer-churn-prediction
-
-
-Install dependencies
-
-pip install -r requirements.txt
 
 
 Run Jupyter Notebook / Python script for analysis
